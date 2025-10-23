@@ -1,15 +1,24 @@
 Bazı kategoriler deki sinema filmleri ile ilgili form kısmında filmin fragmanını film posterini film ile ilgili daha önce yapılmış yorumları bazı blog sitelerinden arayüzde gösterilmesini sağlar.
+
 Dikkat !!! Film Fragmanlarının, Yorumların, Posterlerin arayüz kısmındaki webview ler de görünmesi için projenin aktif olarak bir internet bağlantısı gerekmektedir.
 
 C# FORM (ARAYÜZ) KISMINDA İSE:
+
 ==> 4 TANE WEBVİEW2 adında bir form.
+
 ==> 4 TANE LABEL (Proje çalışmadan önce label adları label1 label2 gibi gözükmektedir. Proje çalıştığı zaman ise menustrip üzerinde seçilecek filmlere göre değişmektedir. Film Adı: Başlangıç, Film Posteri gibi gibi gözükmektedir.
+
 ==> 1 TANE MENUSTRİP MENUSTRIP te ise "Aksiyon", "Romantik", "Uygulama Bilgileri", "Hakkımızda", "Tema", "Çıkış" tıklanabilir alanlar bulunmaktadır.
 
 AKSİYON FİLMLERİ LİSTESİ ==> Başlangıç, Avatar, Yüzüklerin Efendisi Kralın Dönüşü, Karayip Korsanları Dünyanın Sonu, Hızlı ve Öfkeli 10, Hızlı ve Öfkeli Hobbs ve Shaw, Cesur Yürek, Matrix, X Men Birinci Sınıf
+
 Romantik FİLMLERİ LİSTESİ ==> Titanik, Forrest Gump, Akıl Oyunları, İlk Öpücük, Not: Seni Seviyorum, Aşk Tesadüfleri Sever, Cesaretin Varmı Aşka, Kasımda Aşk Başkadır, Turist
+
 Uygulama Bilgileri ==> Uygulamamızda amacımız kullanıcıların kendi kategorilerinde popüler olan filmlerin fragmanlarını, posterlerini görebilmesi ve film ile ilgili bazı bilgilere erişmesini sağlamaktır.
+
 Hakkımızda ==> Bu Uygulama Kaan Ata İnanç Tarfından Geliştirildi.
+
 Tema ==> Arka plan renklerini değiştirir. Tema Renkleri "Gri", "Beyaz", "Turuncu", "Mavi" (Eski Hali)
+
 Çıkış ==> Programdan tamamen çıkmasını sağlar.
 
